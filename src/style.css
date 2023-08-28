@@ -1,0 +1,30 @@
+#btn-start {
+    background-color: gold;
+    color: black;
+    border-radius: 40px;
+    border-color: #fff;
+    width: 5rem;
+    height: 2rem;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+body {
+    background-color: rgba(128, 128, 128, 0.925);
+    display: block;
+}
+
+#btn-info {
+background-image: linear-gradient(rgba(53, 53, 245, 0.5), rgba(215, 233, 55, 0.5));
+}
+
+.info {
+    max-width: 680px;
+    border: 1px solid black;
+    background-color: white;
+    background-image: linear-gradient(rgba(53, 53, 245, 0.5), rgba(215, 233, 55, 0.5));
+    background-repeat: no-repeat;
+    font-family: Arial Narrow Bold;
+    font-size: 20px;
+    padding-bottom: 15px;
+}
